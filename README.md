@@ -17,7 +17,9 @@ Other Python dependencies are standard -- come pre-installed with Anaconda distr
 
 ## Contents
 The 4 pythons files are 
-convert_ascii_to_binary.py”, converts recorded date from CSV to NPY.
+1.	“convert_ascii_to_binary.py”, converts recorded date from CSV to NPY.
 2.	“Gadina_Sobolev_fit.py”, handles the evaluation of current pulses given voltage, the frequency of acquisition of the recording and the equivalent circuit parameters.
 3.	“load_backend.py”, reads the emcee results and generates the corresponding corner plots of “.h5” files.
 4.	“automated_pulse_analyser.py”, performs the pre-processing and grouping of pulses (described below) of current and voltage recordings, runs EMCEE and handles the respective plotting, and fits the current curves using the curve_fit method from scipy.optimize and the “Gadina_Sobolev_fit.py” module.
+
+Additonnaly, EIS data used in the research artciel are also available.
