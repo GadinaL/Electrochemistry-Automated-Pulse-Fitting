@@ -9,10 +9,11 @@ Experimental data and results of numerical calculations are too large (~29 Gb) f
 This code is compatible with Python 3.11.7
 
 The primary Python dependencies are:
-matplotlib 3.8.0
-emcee 3.1.6
-NumPy 1.26.4
-SciPy 1.11.4
+  matplotlib 3.8.0,
+  emcee 3.1.6,
+  NumPy 1.26.4,
+  SciPy 1.11.4.
+  
 Other Python dependencies are standard -- come pre-installed with Anaconda distribution.
 
 ## Contents
@@ -22,4 +23,4 @@ The 4 pythons files are
 3.	“load_backend.py”, reads the emcee results and generates the corresponding corner plots of “.h5” files.
 4.	“automated_pulse_analyser.py”, performs the pre-processing and grouping of pulses (described below) of current and voltage recordings, runs EMCEE and handles the respective plotting, and fits the current curves using the curve_fit method from scipy.optimize and the “Gadina_Sobolev_fit.py” module.
 
-Additonnaly, EIS data used in the research artciel are also available.
+Additonnaly, EIS data used in the research article are also available.
