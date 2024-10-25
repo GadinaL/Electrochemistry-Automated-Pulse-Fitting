@@ -1,0 +1,1 @@
+Folder for figures produced by the kinetic fitting scripts
