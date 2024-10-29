@@ -3,7 +3,7 @@ This is a repository of code accompanying the research article: XXX
 
 ### Eric S. Larsen, Louis P. J.-L. Gadina, Yaroslav I. Sobolev, Jonathan Sabate Del-Rio, Rafal Frydrych, Kisung Lee, Bartosz A. Grzybowski
 
-Experimental data and results of numerical calculations are too large (~29 Gb) for Github and are available from separate repository in Harvard Dataverse: 
+Experimental data and results of numerical calculations are too large (~29 Gb) for Github and are available from separate repository in Harvard Dataverse: https://doi.org/10.7910/DVN/SKNGHM
 
 ## Installation
 This code is compatible with Python 3.11.7
