@@ -1,5 +1,5 @@
 # Sequential electroreductions at alternating polarity are more thermodynamically wasteful and less selective than at direct current
-This is a repository of code accompanying the research article
+This is a repository of code accompanying the research article: XXX
 
 ### Eric S. Larsen, Louis P. J.-L. Gadina, Yaroslav I. Sobolev, Jonathan Sabate Del-Rio, Rafal Frydrych, Kisung Lee, Bartosz A. Grzybowski
 
