@@ -1,1 +1,4 @@
-NMR data are composed of two zip files containing in total 88 1H NMR spectrum, and an excel file lsiting all employed conditions.
+NMR data are composed of two zip files containing in total 88 1H NMR spectrum, and an excel file listing all employed conditions.
+The NMR spectra were obtained by attempting to reproduce the reducion of 4-(Phthalimido)-N-Boc-piperidine as reported in:  
+Kawamata, Y.; Hayashi, K.; Carlson, E.; Shaji, S.; Waldmann, D.; Simmons, B. J.; Edwards, J. T.; Zapf, C. W.; Saito, M.; Baran, P. S. 
+Chemoselective Electrosynthesis Using Rapid Alternating Polarity. J. Am. Chem. Soc. 2021, 143 (40), 16580-16588. DOI: 10.1021/jacs.1c06572
