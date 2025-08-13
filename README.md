@@ -1,4 +1,4 @@
-# DC outperforms AC in Driving Sequential Electroreductions: Reassessing Selectivity and Efficiency Under Varying Conditions
+# Reassessing Alternating-Polarity Electrolysis under Varying Conditions: DC Can Outperform AC in Driving Sequential Electroreductions.
 This is a repository of code accompanying the research article: XXX
 
 ### Eric S. Larsen, Louis P. J.-L. Gadina, Yaroslav I. Sobolev, Jonathan Sabate Del-Rio, Rafal Frydrych, Kisung Lee, Bartosz A. Grzybowski
