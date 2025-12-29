@@ -1,4 +1,4 @@
-# Reassessing Alternating-Polarity Electrolysis under Varying Conditions: DC Can Outperform AC in Driving Sequential Electroreductions.
+# Reassessing Alternating-Polarity Electrolysis under Varying Conditions: Mass-action Outweighs the Waveform.
 This is a repository of code accompanying the research article: XXX
 
 ### Eric S. Larsen, Louis P. J.-L. Gadina, Yaroslav I. Sobolev, Jonathan Sabate Del-Rio, Rafal Frydrych, Kisung Lee, Bartosz A. Grzybowski
@@ -27,6 +27,7 @@ Other Python dependencies are standard -- come pre-installed with Anaconda distr
 6.	`simulate_kinetic_shapes_pulselengths.py` uses methods from `simulate_kinetic_shapes.py` and analyzes the dependence of kinetic rate constants on the length of the square pulse. Also fits kinetic model to DC data. Execute to reproduce Figures 6a-c and Figure S35f from the accompanying research article.
 7.	`error_analysis.py` constructs linear model of the instrumental errors. Run to reproduce Figure S37.
 8.  NMR data obtained while attempting to reproduce the reduction of 4-(Phthalimido)-N-Boc-piperidine are available in the folder `NMR data`. 
+9.  CV tabulating the results of 530 additional electrochemical experiments performed during the study are available in the folder `Additional experiments`. 
 
 To reproduce the Figure S36, uncomment the [line 156 in ``simulate_kinetic_shapes.py``](https://github.com/GadinaL/Automated_Pulse_Fitting-Electrochemistry/blob/2ad77a00de21ce842dd79ca302897557b8c6a54c/simulate_kinetics_shapes.py#L156) and run `simulate_kinetic_shapes.py` and `simulate_kinetic_shapes_pulselengths.py`.
 
